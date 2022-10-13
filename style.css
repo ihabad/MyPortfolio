@@ -9,6 +9,7 @@
   font-family: "Bella text", cursive;
   font-weight: 400;
   z-index: Hidden;
+  overflow: hidden;
 }
 
 html {
@@ -18,6 +19,7 @@ html {
 body {
   overflow-x: hidden;
 }
+
 /*Section1*/
 
 .section-1 {
@@ -131,6 +133,8 @@ body {
   background-color: #0a49f6;
   transform: scale(1.1);
 }
+/*//////////////////////////////////
+
 /*End of Section1*/
 /*section-2*/
 
@@ -181,6 +185,8 @@ body {
   transform: scale(1.1);
 }
 /*End of Section-2*/
+
+/*///////////////////////////////////////*/
 /* Section-3*/
 
 .title-skills,
